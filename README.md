@@ -2,7 +2,7 @@
 
 A simple and responsive web-based music player that allows users to play, pause, and switch between multiple tracks. Built using HTML, CSS, and JavaScript.
 
-![Music Player Screenshot](./img/screenshot.png)
+![Music Player Screenshot](./img/Screenshot.png)
 
 ---
 
