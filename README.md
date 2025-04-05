@@ -11,8 +11,8 @@ A simple and responsive web-based music player that allows users to play, pause,
 - Play/Pause functionality
 - Next/Previous track
 - Dynamic UI with album art
-- Responsive design for desktop and mobile
-- Smooth animations and easy-to-use interface
+- Responsive design for desktop
+- Easy-to-use interface
 
 ---
 
